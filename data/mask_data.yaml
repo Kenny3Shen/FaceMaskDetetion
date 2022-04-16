@@ -1,0 +1,9 @@
+# 训练集以及校验集目录
+train: D:/MyCode/Code/Python/PyQt5-YOLOv5/score/images/train
+val: D:/MyCode/Code/Python/PyQt5-YOLOv5/score/images/val
+
+# 种类数目
+nc: 3
+
+# 种类名称
+names: ['with_mask', 'mask_weared_incorrect', 'without_mask']
